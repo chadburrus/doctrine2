@@ -87,7 +87,7 @@ class ConvertMappingCommand extends Console\Command\Command
 Convert mapping information between supported formats.
 
 This is an execute <info>one-time</info> command. It should not be necessary for
-you to call this method multiple times, escpecially when using the <comment>--from-database</comment>
+you to call this method multiple times, especially when using the <comment>--from-database</comment>
 flag.
 
 Converting an existing databsae schema into mapping files only solves about 70-80%
